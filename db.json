@@ -1,0 +1,7 @@
+{
+  "calories": [
+    { "id": 1, "food": "Tahu Campur", "calory": 150 },
+    { "id": 2, "food": "Tahu Telor", "calory": 100 },
+    { "id": 3, "food": "Ayam Geprek", "calory": 70 }
+  ]
+}
